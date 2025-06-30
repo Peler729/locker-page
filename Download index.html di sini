@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Konten Terkunci</title>
+  <style>
+    body { background: #111; color: #fff; text-align: center; font-family: sans-serif; padding: 50px; }
+    button {
+      background: linear-gradient(90deg, #0f0, #0c0);
+      padding: 15px 30px;
+      margin: 10px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    button:hover { opacity: 0.9; }
+  </style>
+</head>
+<body>
+  <h1>🔒 Konten Ini Terkunci</h1>
+  <p>1️⃣ Klik tombol di bawah untuk daftar ke PropellerAds</p>
+
+  <a href="https://otieu.com/4/9492206" target="_blank">
+    <button>Daftar & Buka</button>
+  </a>
+
+  <p>2️⃣ Setelah itu, klik untuk akses konten Mega</p>
+  <a href="https://mega.nz/folder/qvgG1DxJ#BLQIdlBkloMEdOsDah6FNg" target="_blank">
+    <button>Lanjut ke Konten</button>
+  </a>
+</body>
+</html>
